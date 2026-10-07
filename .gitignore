@@ -1,0 +1,25 @@
+# Local course material: keep out unless redistribution permission is clear.
+Lab 1/*
+!Lab 1/README.md
+Lab 2/*
+!Lab 2/README.md
+Lab 3/*
+!Lab 3/README.md
+Lab 4/*
+!Lab 4/README.md
+soc25-skills3a-ws-starterpack-gem5-fastmodel.zip
+soc25-skills4-ws-starterpack-openroad/
+
+# Tool checkouts and local environments.
+/.conda/
+/gem5/
+/OpenROAD-flow-scripts/
+
+# Generated build and simulation products.
+*.o
+*.elf
+*.dis
+*.vcd
+*.gds
+*.odb
+*.swp
